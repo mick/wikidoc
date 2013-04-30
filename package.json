@@ -1,0 +1,18 @@
+{
+  "name": "wikidoc",
+  "version": "0.0.0",
+  "description": "A wiki based on Google Docs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "express": "~3.1.1",
+    "redis": "~0.8.3",
+    "hiredis": "~0.1.15"
+  }
+}
